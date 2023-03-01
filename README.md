@@ -130,7 +130,7 @@ src/main/resources/static/script.sql
 
 ##### JSON
 
-![image](https://github.com/saved2223/CryptoTrading/blob/master/images/responsetJson.png)
+![image](https://github.com/saved2223/CryptoTrading/blob/master/images/responseJson.png)
 
 > Выбор формата ответа(JSON or XML):
 
